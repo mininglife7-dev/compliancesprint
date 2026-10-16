@@ -66,7 +66,7 @@ gap kits for Indian SaaS. ₹4,999 one-time.
 Your client pays. You earn 50%. Same day.
 No approval process. No minimum volume.
 
-Interested? wa.me/919491145032
+Interested? wa.me/9182163868
 ```
 
 ### To Gravixo Customers/Consultants
