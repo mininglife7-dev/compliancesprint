@@ -253,3 +253,55 @@ wa.me/9182163868
 | Indian Softwares | gm@indiansoftwares.com, +91 85275 22688 | 500-brand reseller (Delhi) | #1 | 50% margin per kit |
 | Vanta affiliates | partner.vantaweb.io | US/India resellers | #3 | 50% vs $500 flat |
 | Rashi Peripherals | India (Sprinto distributor) | National distributor | #1 | 50% per referral |
+## — GLOBAL ACCOUNTANT & CONSULTANT PARTNER NETWORK —
+
+### Why Accountants & Consultants Are THE Perfect Partners
+Every business has an accountant. Every growing SaaS has a consultant.
+They sit in the boardroom. They're trusted. They're already advising on compliance.
+Give them 50% commission and they become your sales force overnight.
+
+### Global Accountant Networks (size + reach)
+
+| Network | Region | Members | Our Play |
+|---------|--------|---------|----------|
+| ICAI (India) | India | 300,000+ members | Every CA serves 50-200 businesses. 300K CAs = 15M-60M access points |
+| ACCA (UK/Global) | UK/Global | 240,000+ members | UK-based, global reach. Members advise SaaS companies worldwide |
+| CPA USA | USA | 660,000+ members | Every US startup needs a CPA. CPAs refer us to their SaaS clients |
+| CPA Canada | Canada | 220,000+ members | Canadian SaaS selling into EU = needs EU AI Act |
+| ICAEW (UK) | UK | 180,000+ members | Top UK firms. Enterprise clients need EU compliance |
+| CA Australia/NZ | Australia/NZ | 100,000+ members | AU/NZ SaaS expanding to EU |
+| SAICA (South Africa) | South Africa | 50,000+ members | Growing SaaS ecosystem |
+| ICPAI (Pakistan) | Pakistan | 50,000+ members | SaaS freelancers serving EU clients |
+| MIA (Malaysia) | Malaysia | 35,000+ members | SEA SaaS hub |
+| ISCA (Singapore) | Singapore | 30,000+ members | Regional SaaS compliance gateway |
+
+### Global Consultant Networks
+IMC (India) — Management consultants serving enterprises
+FEACO (Europe) — 500+ consultancies across EU
+AMCF (USA) — Top US firms with global SaaS clients
+ICMCI — 60+ countries. Global reach, local trust
+
+### Continent-by-Continent Poach Plan
+- **Asia**: ICAI (300K) → ICPAI → ISCA → MIA
+- **Europe**: ACCA (240K) → ICAEW (180K) → FEACO
+- **North America**: CPA USA (660K) → CPA Canada (220K) → AMCF
+- **Australia/NZ**: CA ANZ (100K)
+- **Africa**: SAICA (50K) → Regional networks
+- **South America**: Colegio de Contadores (per country)
+
+### Universal Poach Script (any accountant/consultant)
+```
+Hi [name] — you advise [client type] on compliance.
+
+AI regulations are coming fast (EU AI Act, DPDP, SOC 2).
+Your clients need compliance documentation, fast.
+
+We built ComplianceSprint — a 7-day AI compliance gap kit.
+4,999 one-time ($60). Free sample before purchase.
+
+Partner with us: you refer, we deliver, you earn 50%.
+No paperwork. No minimum. No extra work.
+
+https://unadhi.com/compliancesprint/partner.html
+wa.me/9182163868
+```
