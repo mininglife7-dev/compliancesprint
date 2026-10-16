@@ -154,7 +154,94 @@ https://unadhi.com/compliancesprint/partner.html
 
 ---
 
-## — COMPETITOR DEALER/AGENT CONTACTS (harvested) —
+## — EUROPEAN CA / CONSULTANT PARTNER TARGETS (GLOBAL EXPANSION) —
+
+### Why CAs Across All Countries
+Every business that needs AI compliance already has an accountant, tax advisor, or compliance consultant.
+CAs are trusted advisors — they sit in every boardroom. Partnering them = instant access to their entire client base.
+
+### European Targets — Researched & Verified
+
+| Company | Country | Clients | Why They Need Us | Contact |
+|---------|---------|---------|------------------|---------|
+| **Dougs** | France (Lyon) | 50,000+ SMBs, €50M ARR | Online accounting firm. Their 50K SMB clients need EU AI Act compliance. White-label our kit. | +33 4 28 29 62 62, dougs.fr/contact |
+| **TrustReady.eu** | Germany (Berlin) | AI SaaS companies | Direct competitor — €199-€999/pack. Partnership: they sell procurement packs, we do gap analysis. | trustready.eu (LinkedIn), Berlin HQ |
+| **Sphere Partners** | UK/EU | Enterprise SaaS | $8,500/8-week EU AI Act. We're $60/7-day. Perfect pre-work for their deep engagement. | sphereinc.com/contact |
+| **EuroComply** | EU | Compliance consultants | Has partner program (5-day approval). Apply as tech partner. | eurocomply.app/partners |
+| **Crata AI** | Spain (Barcelona) | AI governance | Boutique firm. 50% on gap kit referrals. | aiactadvisors.com/consultants |
+| **61 EU AI Act Consultants** | All EU | AI compliance | Listed on aiactadvisors.com. Every one is a potential 50%-commission partner. | aiactadvisors.com/consultants |
+
+### European Partner Poach Scripts
+
+### To Dougs (France — 50K SMB clients)
+```
+Bonjour — Dougs has 50,000 SMB clients.
+Many of them build AI features or use AI tools.
+Starting August 2026, EU AI Act applies to them.
+
+We built ComplianceSprint — a 7-day AI compliance
+gap kit. ₹4,999 one-time ($60).
+
+Your clients get compliant. You earn 50% commission.
+White-label available. No extra work for your team.
+
+Partnership: wa.me/9182163868
+```
+
+### To TrustReady.eu (Berlin — direct competitor)
+```
+Hi — I see you help AI SaaS companies pass EU procurement.
+You sell compliance packs at €199-€999.
+
+We sell gap kits at ₹4,999 ($60). We're not competitors —
+we're the pre-work layer. Your clients need a gap analysis
+BEFORE they're ready for your deep-dive procurement packs.
+
+Partnership: we refer clients who outgrow our kit to you,
+you refer clients who need a quick gap map to us.
+50% cross-referral commission.
+
+Interested? wa.me/9182163868
+```
+
+### To Sphere Partners (UK/EU — $8,500 engagements)
+```
+Sphere charges $8,500 for EU AI Act readiness.
+Many of your prospects can't afford that upfront.
+They need a ₹4,999 ($60) gap kit to start.
+
+You give them our kit as pre-work.
+They get compliant faster. Your engagement is easier.
+You earn 50% commission on every kit you refer.
+
+Win-win. wa.me/9182163868
+```
+
+### EU-Wide CA Poach (for any European CA firm)
+```
+Hi — you advise SaaS companies on compliance.
+Starting August 2026 (high-risk AI deadline),
+every AI startup needs EU AI Act documentation.
+
+We built ComplianceSprint — a 7-day gap kit.
+₹4,999 one-time. Free sample before purchase.
+
+Partner with us: refer clients, earn 50% commission.
+No paperwork. No minimum. WhatsApp to start.
+
+wa.me/9182163868
+```
+
+### — COUNTRY-BY-COUNTRY CA OUTREACH PLAN —
+
+| Country | CA Firms to Target | Approach |
+|---------|-------------------|----------|
+| **France** | Dougs (50K clients), Mon Comptable, Mylittlebox | Their clients are SMBs shipping AI. Bundle our kit. |
+| **Germany** | TrustReady.eu, DATEV (2.5M clients), LEXoffice | German Mittelstand needs AI Act compliance for EU exports. |
+| **UK** | Sphere Partners, Acumon, Sayer Vincent, Grant Thornton | UK firms serving AI SaaS companies selling into EU. |
+| **Spain** | Crata AI, Barcelona-based AI consultants | Boutique AI governance firms — each needs a gap kit partner. |
+| **Netherlands** | Compliance consultants serving Amsterdam SaaS hub | Fast-growing AI startup ecosystem. |
+| **All EU** | 61 consultants on aiactadvisors.com | Cold outreach: "You need a gap kit partner. We pay 50%." |
 
 | Company | Contact | Type | Poach Script # | Our Offer |
 |---------|---------|------|----------------|-----------|
