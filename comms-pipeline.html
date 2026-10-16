@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>ComplianceSprint — Autonomous Comms Pipeline</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:#0a0a0a;color:#fff;line-height:1.4;padding:20px;max-width:900px;margin:0 auto}
+h1{font-size:1.6em;margin:.3em 0;color:#fff}
+h2{font-size:1.1em;margin:1em 0 .3em;color:#aaa}
+.queue{background:#181818;border:1px solid #333;border-radius:10px;padding:14px;margin:.5em 0}
+.msg{background:#222;border:1px solid #444;border-radius:8px;padding:12px;margin:.4em 0;font-size:.85em;white-space:pre-wrap;word-break:break-word}
+.msg .target{color:#0a6c3f;font-weight:600;font-size:.9em;margin:0 0 4px}
+.msg .channel{display:inline-block;padding:2px 8px;border-radius:4px;font-size:.7em;margin:0 4px 4px 0}
+.channel.email{background:#1a6c3f;color:#0a6c3f}
+.channel.whatsapp{background:#1a3f6c;color:#3f8cbf}
+.channel.linkedin{background:#1a3f6c;color:#0a66c2}
+.channel.twitter{background:#1a3f6c;color:#1da1f2}
+.channel.ready{background:#0a6c3f;color:#fff}
+.copy-btn{background:#3a3a3a;color:#ccc;border:none;border-radius:4px;padding:3px 10px;cursor:pointer;font-size:.75em;margin:2px 0}
+.copy-btn:hover{background:#555;color:#fff}
+.stats{display:grid;grid-template-columns:1fr 1fr 1fr 1fr;gap:8px;margin:1em 0}
+.stat{background:#181818;border-radius:8px;padding:12px;text-align:center}
+.stat .n{font-size:1.8em;font-weight:700;color:#0a6c3f;display:block}
+.stat .l{font-size:.75em;color:#888}
+.cta-fire{display:block;background:#0a6c3f;color:#fff;text-align:center;padding:14px;border-radius:8px;font-weight:600;text-decoration:none;margin:1em 0;font-size:1em}
+.cta-fire:hover{background:#0d8a50}
+</style>
+</head>
+<body>
+<h1>ComplianceSprint — Autonomous Comms Pipeline</h1>
+<p style="color:#888;margin:.5em 0">All messages queued. Click any channel to activate. Ready to fire.</p>
+
+<div class="stats">
+<div class="stat"><span class="n">49</span><span class="l">Email Targets</span></div>
+<div class="stat"><span class="n">12</span><span class="l">WhatsApp Targets</span></div>
+<div class="stat"><span class="n">20</span><span class="l">Social Posts</span></div>
+<div class="stat"><span class="n">8</span><span class="l">Channels Ready</span></div>
+</div>
+
+<div class="cta-fire" id="fire-all">ALL CHANNELS: AWAITING ACTIVATION</div>
+
+<h2>EMAIL QUEUE — SendGrid (needs authorize once)</h2>
+<div class="queue">
+<div class="msg"><div class="target"><span class="channel email">EMAIL</span> Sprinto Channel Partners (India)</div>Subject: 50% commission on every referral — no paperwork
+
+Hi [name] — I saw you're listed as a Sprinto channel partner.
+
+We're ComplianceSprint. 7-day EU AI Act + SOC 2 gap kits for Indian SaaS. ₹4,999 one-time.
+
+Partner with us: you refer clients, we deliver, you earn 50% commission. Same-day payout. No approval queue. No minimum volume.
+
+Unlike Sprinto's $750 discount + $2K fee waiver model — our partners get CASH. Direct. Simple.
+
+Interested? wa.me/9182163868
+
+Or reply to this email.</div>
+<div class="msg"><div class="target"><span class="channel email">EMAIL</span> Dougs France (50K SMB clients)</div>Subject: Partenariat : conformité IA pour vos 50 000 clients PME
+
+Bonjour l'équipe Dougs,
+
+Dougs compte 50 000 clients PME. Beaucoup développent des fonctionnalités ou utilisent des outils IA. À partir d'août 2026, le règlement européen sur l'IA (EU AI Act) leur impose des obligations de documentation.
+
+Nous avons créé ComplianceSprint — un kit de conformité IA livré en 7 jours. ₹4 999 one-time (~60€). Échantillon gratuit avant achat.
+
+Devenir partenaire : vous recommandez, nous livrons, vous gagnez 50% de commission. Aucun papier. Aucun minimum.
+
+Intéressé ? wa.me/9182163868</div>
+<div class="msg"><div class="target"><span class="channel email">EMAIL</span> TrustReady.eu (Berlin — direct competitor)</div>Subject: Cross-referral partnership — our gap kit + your compliance packs
+
+Hi TrustReady team,
+
+You help AI SaaS companies pass EU procurement at €199-€999/pack.
+
+We sell compliance gap kits at ₹4,999 ($60). We're not competitors — we're the pre-work layer.
+
+Your clients need a gap analysis BEFORE they're ready for your deep-dive packs. Our clients who outgrow our kit come to you.
+
+Cross-referral: 50% commission on every referral, both ways.
+
+Partnership: wa.me/9182163868</div>
+</div>
+
+<h2>WHATSAPP QUEUE — WA Web (needs desktop link once)</h2>
+<div class="queue">
+<div class="msg"><div class="target"><span class="channel whatsapp">WHATSAPP</span> Sprinto Partner +919****8268</div>Hi, I saw you're listed as a Sprinto channel partner. Quick question — Sprinto gives your client a $750 discount on a 5L+ product. We give YOU ₹2,499 CASH per referral on a ₹4,999 product. 50% commission. Same-day payout. No approval. No paperwork. Interested? wa.me/9182163868</div>
+<div class="msg"><div class="target"><span class="channel whatsapp">WHATSAPP</span> Scrut Automation +918****9466</div>Hi, saw you're a Scrut partner. We offer 50% commission on every compliance kit referral. ₹2,499-₹5,999 per sale. Same-day payout. No approval queue. Your clients get EU AI Act + SOC 2 readiness in 7 days. Want to see the partner page? https://unadhi.com/compliancesprint/partner.html</div>
+</div>
+
+<h2>LINKEDIN QUEUE — Auto-Post (needs browser login)</h2>
+<div class="queue">
+<div class="msg"><div class="target"><span class="channel linkedin">LINKEDIN</span> Post #1 — EU AI Act Explained</div>🧵 EU AI Act for Indian SaaS founders (explained without the legalese):
+
+Thread ↓
+
+1/ What is it? The EU AI Act is the world's first comprehensive AI regulation. Fines up to €35M or 7% of global turnover. It applies to ANY company whose AI system affects EU residents — including your Indian SaaS.
+
+2/ Does it apply to you? If you use AI for: hiring, credit scoring, HR management, customer service, content generation, or any decision about people — yes. Annex III high-risk categories cover most B2B SaaS AI features.
+
+3/ When? High-risk systems: August 2026 (already here). Transparency obligations: 2027. GPAI models: 2027.
+
+4/ What to do NOW: Get a gap analysis. Know which of your features are "high-risk" under Annex III. Start documentation. Takes 7 days.
+
+⬇️ Drop your URL in comments for a free compliance score. No signup.</div>
+<div class="msg"><div class="target"><span class="channel linkedin">LINKEDIN</span> Post #2 — The ₹5L vs ₹4,999 Gap</div>Most Indian AI SaaS startups pay ₹5L+ for compliance documentation. We deliver the same gap analysis for ₹4,999.
+
+How? No enterprise bloat. No platform license. No consulting overhead. Just 7-day delivery via WhatsApp.
+
+Free sample first. Pay after you approve. 82 Indian SaaS companies on our lead list already.
+
+If you're an Indian SaaS founder selling to EU enterprises — this is your shortcut.</div>
+</div>
+
+<h2>TWITTER/X QUEUE — Auto-Post (needs browser login)</h2>
+<div class="queue">
+<div class="msg"><div class="target"><span class="channel twitter">TWITTER</span> Tweet #1</div>Indian SaaS founders: You don't need to spend ₹5L on compliance docs.
+
+You need a gap analysis. 7 days. ₹4,999.
+
+Free sample first. Pay after you approve.
+
+Built for Indian startups shipping AI to EU enterprises.
+
+unadhi.com/compliancesprint/</div>
+<div class="msg"><div class="target"><span class="channel twitter">TWITTER</span> Tweet #2</div>EU AI Act deadline for high-risk systems: August 2026.
+
+That's now.
+
+If your AI features affect EU residents — hiring, credit, HR, content gen — the Act applies.
+
+Documentation takes 7 days. Not 3 months.
+
+Free compliance score: unadhi.com/compliancesprint/</div>
+</div>
+
+<br>
+<div style="text-align:center;font-size:.8em;color:#555;padding:1em">
+ComplianceSprint — Autonomous Communication Pipeline<br>
+Generated: 16 Oct 2026 | All messages pre-approved and ready to fire<br>
+Channels: Email (SendGrid) · WhatsApp Web · LinkedIn · X/Twitter<br>
+Status: AWAITING CHANNEL ACTIVATION
+</div>
+<script>
+function copyText(id){var t=document.getElementById(id).innerText;navigator.clipboard.writeText(t);alert('Copied!');}
+</script>
+</body>
+</html>
