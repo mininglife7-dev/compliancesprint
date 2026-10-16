@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://unadhi.com/compliancesprint/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://unadhi.com/compliancesprint/outreach.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://unadhi.com/compliancesprint/index.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/partner.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/outreach.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/index.html</loc><changefreq>daily</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/5L-vs-4999-gap.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/7-day-gap-kit.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/ai-transparency-obligation.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/bootstrapped-saas-compliance.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/compliance-myth-1.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/compliance-sales-tool.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/dpdp-eu-ai-act.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/eu-ai-act-timeline.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/fintech-compliance.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/founder-story-7-days.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/free-compliance-score.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/free-sample-strategy.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/healthtech-compliance.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/hr-tech-compliance.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/human-oversight-framework.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/partner-commission-50.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/partner-program.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/procurement-wall.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/referral-earn-back.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/soc2-not-enough.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/sprinto-vs-compliancesprint.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/what-is-annex-3.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/what-is-eu-ai-act.html</loc><changefreq>weekly</changefreq></url>
+<url><loc>https://unadhi.com/compliancesprint/blog/whatsapp-compliance.html</loc><changefreq>weekly</changefreq></url>
 </urlset>
